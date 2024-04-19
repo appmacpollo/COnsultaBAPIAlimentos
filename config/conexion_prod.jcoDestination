@@ -1,0 +1,12 @@
+#Configuración de conexión de POS con SAP
+#Fri Mar 24 10:55:43 COT 2023
+jco.destination.pool_capacity=5
+jco.client.lang=S
+jco.client.ashost=192.168.67.46
+jco.client.saprouter=
+jco.client.snc_mode=2
+jco.client.user=chronosoftal
+jco.client.sysnr=00
+jco.client.passwd=v)if5GF!Uwniwb-x2WQvuo`6j7#naHPbQOQ/xwvj@D+H^=D*
+jco.client.client=400
+jco.client.dest=EMC

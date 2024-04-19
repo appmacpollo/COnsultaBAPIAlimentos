@@ -1,0 +1,4 @@
+com\macpollo\app\consultabapialimentoswebservice\services\SapBapiConsumer.class
+com\macpollo\app\consultabapialimentoswebservice\controllers\MaterialStockReqListServlet.class
+com\macpollo\app\consultabapialimentoswebservice\controllers\MaterialGetListServlet.class
+com\macpollo\app\consultabapialimentoswebservice\JakartaRestConfiguration.class
